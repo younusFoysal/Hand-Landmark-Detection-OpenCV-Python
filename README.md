@@ -16,6 +16,6 @@ Desktop Application
 Hand Landmark Detection OpenCV Python : About the project
 This 2022 Hand Landmark Detection OpenCV Python was created with Python and OpenCV. With this Python Project, we’ll get hand landmarks from a webcam using Python, MediaPipe, and OpenCV.
 
-Example:
+# Example:
 
 ![Screenshot](Screenshot.jpg)
